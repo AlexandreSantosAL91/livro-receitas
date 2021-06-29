@@ -2,5 +2,5 @@
 
 Olá! Bem-vindo aos meus livros de receitas!
 
-* Café cremoso
+* Café Cremoso!
 
